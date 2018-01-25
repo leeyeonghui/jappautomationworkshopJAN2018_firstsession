@@ -1,0 +1,4 @@
+# jappautomationworkshopJAN2018_firstsession
+JAPPAutomationWorkshop2018_firstsession
+
+setnetconf.py is linked to inventory.txt
